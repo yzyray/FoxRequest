@@ -1,4 +1,4 @@
 # FoxRequest
-Source code of `InVisibleFrame.jar` in [LizzieYzy](https://github.com/yzyray/lizzieyzy)
+Source code of `FoxRequest.jar` in [LizzieYzy](https://github.com/yzyray/lizzieyzy)
 
-Get fox sgf game records
+Used to get sgf game records of Fox weiqi.
